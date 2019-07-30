@@ -133,7 +133,7 @@ class StalkerNotifications {
 				desktopoffline: 	{value:{url:null,song:null,mute:false}}
 			},
 			amounts: {
-				checkInterval:		{value:10, 		min:5,		description:"Check Users every X seconds:"}
+				checkInterval:		{value:10, 		min:1,		description:"Check Users every X seconds:"}
 			}
 		};
 	}
